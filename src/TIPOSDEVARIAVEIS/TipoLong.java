@@ -1,3 +1,4 @@
+package TIPOSDEVARIAVEIS;
 
 public class TipoLong {
 	
