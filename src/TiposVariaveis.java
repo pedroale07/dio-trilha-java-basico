@@ -32,7 +32,13 @@ public class TiposVariaveis {
 		 * Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
 		 */
 		
+			Byte adentrarNaClasseByte = new Byte();
 			
+			
+		//SHORT
+		/**
+		 * 
+		 */
 		
 	}
 
