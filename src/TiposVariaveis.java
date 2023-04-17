@@ -41,6 +41,13 @@ public class TiposVariaveis {
 		 */
 		
 			TipoShort adentreNaClasseShort = new TipoShort();
+			
+		//INT
+			/**
+			 *  Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
+			 */
+	
+			TipoInt adentreNaClasseInt = new TipoInt();
 	}
 
 }
