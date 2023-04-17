@@ -37,9 +37,10 @@ public class TiposVariaveis {
 			
 		//SHORT
 		/**
-		 * 
+		 * Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
 		 */
 		
+			TipoShort adentreNaClasseShort = new TipoShort();
 	}
 
 }
