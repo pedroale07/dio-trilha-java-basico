@@ -54,6 +54,23 @@ public class TiposVariaveis {
 			 * Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
 			 */
 		TipoLong adentreNaClasseLong = new TipoLong();
+		
+		/**
+		 * alguns tipos primitivos podem conter partes fracionarías podem ser representados por 
+		 * tipo float e double
+		 */
+		
+		//FLOAT
+		/**
+		 * Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
+		 */
+		TipoFloat adentreNaClasseFloat = new TipoFloat();
+		
+		//DOUBLE
+		/**
+		 * Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
+		 */
+		TipoDouble adentreNaClasseDouble = new TipoDouble();
 	}
 
 }
