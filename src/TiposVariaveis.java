@@ -48,6 +48,12 @@ public class TiposVariaveis {
 			 */
 	
 			TipoInt adentreNaClasseInt = new TipoInt();
+			
+		//LONG
+			/**
+			 * Adentre na classe abaixo e verifique suas respectivas funcoes e seu uso
+			 */
+		TipoLong adentreNaClasseLong = new TipoLong();
 	}
 
 }
